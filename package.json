@@ -1,0 +1,19 @@
+{
+  "name": "karla",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "segundo": "node ./clases/ejemplos",
+    "tercero": "node ./clases/ejemplos && node app"
+  },
+  "keywords": [],
+  "author": "karla",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "colors": "^1.4.0",
+    "moment": "^2.30.1"
+  }
+}
